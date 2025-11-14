@@ -78,7 +78,7 @@ def main():
     labor_hours_pg = getFloatInput("How many labor hours per gallon: ")
     labor_rate = getFloatInput("Labor charge per hour: ")
 
-    state = input("State job is in (example: MA): ").upper()
+    state = input("State job is in: ").upper()
     last_name = input("Customer Last Name: ").title()
 
     gallons = getGallonsOfPaint(sqft, feet_per_gallon)
@@ -88,5 +88,6 @@ def main():
     tax_rate = getSalesTax(state)
 
     showCostEstimate(gallons, labor_hours, labor_cost, paint_cost, tax_rate, last_name)
+
 
 main()
