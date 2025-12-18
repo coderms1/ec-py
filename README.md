@@ -5,14 +5,14 @@
 
 The scripts in this repo cover:
 
--Basic printing
--Variables and user input
--If/else decisions
--Loops
--Functions
--Simple calculators
--Small interactive programs
--File handling (intro level)
+- Basic printing
+- Variables and user input
+- If/else decisions
+- Loops
+- Functions
+- Simple calculators
+- Small interactive programs
+- File handling (intro level)
 
 #### 🧠 How to use
 
@@ -26,9 +26,9 @@ You can run any file with:
 
 This repo is mainly for:
 
--Practicing beginner-level Python
--Tracking progress as the class learns new concepts
--Keeping all early-college Python exercises in one place
+- Practicing beginner-level Python
+- Tracking progress as the class learns new concepts
+- Keeping all early-college Python exercises in one place
 
 #### 📝 Notes
 
