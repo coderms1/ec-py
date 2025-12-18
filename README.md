@@ -19,7 +19,7 @@ The scripts in this repo cover:
 Each .py file is a standalone script.
 You can run any file with:
 
--python3 filename.py
+- *python3 filename.py*
 
 
 #### 🧱 Purpose
