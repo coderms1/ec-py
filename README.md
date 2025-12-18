@@ -4,7 +4,7 @@
 #### 🗄️ Contents
 
 The scripts in this repo cover:
-'''
+
 -Basic printing
 -Variables and user input
 -If/else decisions
@@ -13,7 +13,7 @@ The scripts in this repo cover:
 -Simple calculators
 -Small interactive programs
 -File handling (intro level)
-'''
+
 #### 🧠 How to use
 
 Each .py file is a standalone script.
